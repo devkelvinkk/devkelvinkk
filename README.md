@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devkelvinkk
-- 👀 I’m interested in web development and web design 
-- 🌱 I’m currently learning Web development 
+- 👀 I’m interested in web development,web design, and Blockchain Technology 
+- 🌱 I’m currently learning Blockchain Technology
 - 💞️ I’m looking to collaborate on with fellow Developers from various fields 
 - 📫 How to reach me mail me: kamandekelvin376@gmail.com
 
