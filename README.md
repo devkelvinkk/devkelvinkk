@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devkelvinkk
-- 👀 I’m interested in web development,web design, and Blockchain Technology 
+- 👀 A front end and backend developer(main)
 - 🌱 I’m currently learning Blockchain Technology
 - 💞️ I’m looking to collaborate on with fellow Developers from various fields 
 - 📫 How to reach me mail me: kamandekelvin376@gmail.com
