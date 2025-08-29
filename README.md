@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devkelvinkk
-- 👀 A front end and backend developer(main)
+- 👀 A SOftware Engineer
 - 🌱 I’m currently learning Blockchain Technology
 - 💞️ I’m looking to collaborate on with fellow Developers from various fields 
 - 📫 How to reach me mail me: kamandekelvin376@gmail.com
